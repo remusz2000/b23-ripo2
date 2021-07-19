@@ -11,3 +11,7 @@ more lunch
 burger 10.99 500 call
 kebob 11 
 
+
+the total price for the lunch is
+$39.98
+
