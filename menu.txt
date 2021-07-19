@@ -1,1 +1,8 @@
-menu.txt
+moccaa
+
+bacon
+fries
+salad
+
+price 17.99 2500 cal
+
